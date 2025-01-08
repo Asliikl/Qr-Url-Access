@@ -1,0 +1,14 @@
+.qr-image-show{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.qr-image-show img{
+    width: 200px
+}
+.required{
+    color: red;
+}
